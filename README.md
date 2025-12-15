@@ -1,7 +1,7 @@
 
-╔══════════════════════════════════════════════════════════╗
-║     AC AIR FILTER RECOMMENDATION SYSTEM USING TSMIXER              
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║        AC AIR FILTER RECOMMENDATION SYSTEM USING TSMIXER              ║
+╚══════════════════════════════════════════════════════════════════════╝
 
 ## 📌 Overview
 This project implements a **time-series based deep learning system** to predict the **cleanliness status of an Air Conditioner (AC) air filter** — classified as **Clean** or **Dirty**.  
@@ -153,5 +153,6 @@ python app.py
 ## ✅ Conclusion
 This project demonstrates an **end-to-end time-series ML pipeline** using TSMixer for AC air filter health prediction.  
 While the system architecture and integration are complete, **further tuning and validation are required before production deployment**.
+
 
 
