@@ -154,6 +154,4 @@ python app.py
 This project demonstrates an **end-to-end time-series ML pipeline** using TSMixer for AC air filter health prediction.  
 While the system architecture and integration are complete, **further tuning and validation are required before production deployment**.
 
-╔══════════════════════════════════════════════════════════════════════╗
-║                          END OF README                               ║
-╚══════════════════════════════════════════════════════════════════════╝
+
