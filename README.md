@@ -135,7 +135,7 @@ Logs are stored in `app.log`.
 ## ⚙️ Installation & Execution
 ```bash
 pip install -r requirements.txt
-python train_model.py
+python model.py
 python app.py
 ```
 
